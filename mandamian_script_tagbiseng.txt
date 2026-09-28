@@ -1,0 +1,243 @@
+================================================================================
+SCRIPT & OUTLINE SA REPORT: CHAPTER 6 (TAGBISENG / TAGALOG-BISAYA-ENGLISH)
+PRESENTER: MANDAMIAN (INTRODUCTION + SLIDES 6, 7, & 8)
+Live Deck: https://troge-dev.github.io/gbv-presentation/
+================================================================================
+
+REMINDERS SA STAGE & CONTROLS:
+• Press 'F' para Fullscreen dayon sa deck.
+• Press 'Space' o 'Right Arrow' para mu-next slide.
+• Press 'X' o 'Tab' para mu-flip ang cards kung gusto nimo ipakita ang legal definitions.
+• Relax lang, confident ang tingog, eye contact sa panel o prof!
+
+--------------------------------------------------------------------------------
+PART 1: THE INTRODUCTION (SLIDE 01)
+Slide Title: The Architecture of Gendered Violence & Systemic Inequality
+Target Time: ~1 minute to 1 minute 15 seconds
+--------------------------------------------------------------------------------
+
+[ACTION: Open Slide 1 on screen. Stand confidently, look at the panel/class.]
+
+"Maayong adlaw sa atong panel, sa atong instructor, ug sa tanan nakong classmates. 
+
+Karon, atong i-present ang Chapter 6: Exploring the Self Through Diverse Perspectives, 
+nga naga-focus sa 'The Architecture of Gender-Based Violence and Inequality.'
+
+Kasagaran gud, 'pag makadungog ta ug word nga 'violence' o 'domestic abuse', ang 
+unang mosulod sa huna-huna sa mga tao kay away sa magtiayon, personal nga problema, 
+o kaha na-timing lang nga init ang ulo sa bana o sa partner. 
+
+Pero ang central thesis sa among report karon: Dili na tinuod. 
+Gender-based violence is NOT just an accidental or interpersonal conflict. 
+It is a STRUCTURAL ENFORCEMENT of systemic inequality. 
+
+Kumbaga, sumala pa sa mga sociologists parehas nila Johan Galtung ug Pierre Bourdieu, 
+ang physical violence nga atong makita sa balita, tip of the iceberg lang na. 
+Sa ilalom ana, naay dakong structural ug cultural foundation—mga institutional rules, 
+patriarchal machismo, ug economic dependency nga nagapadayon ani nga abuso.
+
+Sa among report karon, gibahin namo ni into four expert perspectives:
+1. Si Mahilum ang mo-tackle sa Domestic Sphere—mga forms of abuse sa panimalay, 
+   ang Duluth Power Wheel, Walker's Cycle of Violence, ug ang PNP/DSWD crisis response.
+2. Ako mismo, si Mandamian, ang mo-discuss sa Boundaries of Harm—unsa ang kalainan 
+   sa Sexual Harassment versus Sexual Assault, ang Quid Pro Quo, ug ngano nga 
+   daghang biktima ang mahadlok mo-report.
+3. Si Marshburn ang mo-break down sa Workplace Discrimination—ang 18.4% Gender Pay Gap, 
+   ang Glass Ceiling, ug ang Labor Code protections.
+4. Ug si Megalbio ang mo-present sa Legal Shields—parehas sa Anti-VAWC Act (RA 9262), 
+   Safe Spaces Act (Bawal Bastos Law), ug ang mga reforms nga atong gikinahanglan.
+
+Aron mas masabtan nato ang intimate mechanics ani, i-turn over nako ang floor 
+kang Mahilum para sa Domestic Sphere. Mahilum, the floor is yours."
+
+[ACTION: Handoff to Mahilum. Sit down or step to the side. Mahilum presents Slides 2, 3, 4, and 5.]
+
+
+--------------------------------------------------------------------------------
+TRANSITION NOTE:
+Human sa Slide 5 ni Mahilum (Crisis Intervention), ikaw na pud ang mobarog!
+Mahilum will say: "...we now turn the floor to Mandamian for institutional spaces."
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+PART 2: SLIDE 06 — HARASSMENT VS. SEXUAL ASSAULT (p. 110)
+Slide Title: Delineating Harassment and Sexual Assault
+Target Time: ~1 minute
+--------------------------------------------------------------------------------
+
+[ACTION: Stand up, step to the center. Ensure Slide 6 is displayed.]
+
+"Salamat, Mahilum. 
+
+Karon, motabok ta gikan sa balay padulong sa institutional ug organizational domain—sa 
+eskwelahan, sa opisina, ug sa public spaces. 
+
+Sugdan nato ni sa usa ka importante kaayo nga legal ug conceptual boundary: 
+Unsa man gyud ang kalainan sa SEXUAL HARASSMENT versus SEXUAL ASSAULT?
+
+Sa media o sa chismis, pirmi ni ginatapo o gina-interchange. Pero sa mata sa balaod, 
+magkalahi gyud ni sila ug jurisdiction, standard of proof, ug silot.
+
+Tan-awa ninyo ang left side: SEXUAL HARASSMENT.
+Base sa feminist legal scholar nga si Catharine MacKinnon, ang sexual harassment 
+is fundamentally a VIOLATION OF EQUALITY and human dignity sulod sa workplace o eskwelahan. 
+Abuso ni sa power hierarchy. 
+• Ang nagakupot sa kaso diri kay Administrative Bodies—parehas sa internal Committee 
+  on Decorum and Investigation (CODI), Civil Service Commission, o DOLE.
+• Ang standard of proof nga gikinahanglan: SUBSTANTIAL EVIDENCE lang—meaning, igo na 
+  nga ebidensya nga dawaton sa usa ka reasonable mind.
+• Ang silot: Matangtang sa trabaho (termination), mawad-an ug professional license, 
+  ug pabayron ug damages.
+
+Karon, tan-awa ang right side: SEXUAL ASSAULT AND RAPE.
+Dili na ni ordinaryong HR issue o code of conduct breach. This is a GRAVE FELONY 
+against bodily sovereignty—paglapas na ni sa personal nga lawas ug kagawasan sa tao.
+• Prosecuted ni criminally sa Regional Trial Court ubos sa Revised Penal Code 
+  ug Anti-Rape Law (RA 8353).
+• Ang standard of proof: PROOF BEYOND REASONABLE DOUBT—ang pinakataas nga standard 
+  sa atong legal system.
+• Ang silot: Pagkapriso hangtod RECLUSION PERPETUA (20 to 40 years).
+
+Nganong importante ni sabton? 
+Kay dili pwede nga ang usa ka kompanya o unibersidad moingon: 'Ay, internal HR matter 
+lang ni,' kung ang nahitabo diay felony crime na parehas sa attempted rape o sexual assault. 
+Magka-dungan na sila: naay administrative investigation sa sulod, ug naay criminal case sa korte."
+
+
+--------------------------------------------------------------------------------
+PART 3: SLIDE 07 — SEXUAL HARASSMENT FORMS (p. 111)
+Slide Title: Sexual Harassment in Institutional Spaces
+Target Time: ~1 minute 15 seconds
+--------------------------------------------------------------------------------
+
+[ACTION: Move to Slide 7. Press 'X' or click the cards if you want to emphasize points.]
+
+"Karon sa Slide 7, mosulod ta sa corporate offices ug universities. 
+Ubos sa Republic Act No. 7877 (Anti-Sexual Harassment Act of 1995), naay duha ka 
+major forms ang sexual harassment. 
+
+Una, kining crimson card sa wala: QUID PRO QUO.
+Latin phrase ni nga nagpasabot ug 'This for that' o 'Kani bugti niana.'
+Kani ang classic nga transactional blackmail! 
+Pananglitan: Ang boss moingon sa iyang intern o empleyado: 
+'Kuyogi ko mag-dinner o check-in ta karong gabii, ug pirmahan nako imong promotion. 
+Kung mobalibad ka, dili ma-renew imong kontrata.' 
+O sa eskwelahan: Ang professor moingon sa estudyante: 'Kung dili ka mosugot sa akong 
+hangyo, hagbong ka sa akong subject.'
+Take note sa exam ug recitation: Sa Quid Pro Quo, BISAN KAUSA LANG NAHITABO, 
+kompleto na ang violation! Gigamit sa boss iyang gatekeeping power aron mang-extort.
+
+Ikaduha, kining amber card sa tuo: HOSTILE WORK ENVIRONMENT.
+Wala diri gikinahanglan nga mangayo ug 'sex' directly. 
+Ang nahitabo diri kay ang hinay-hinay nga pagkahilo sa environment—atmospheric toxicity!
+Mao ni ang boss o kauban sa trabaho nga pirmi mag-jokes ug bastos, mag-send ug malaswa 
+nga memes sa group chat, mag-comment sa lawas sa babaye, o mag-treat sa female workers 
+nga mura'g display lang imbes nga professional. 
+Ang resulta? Ang empleyado ma-stress, magka-panic attacks, ug mapugos ug resign. 
+Sa Philippine Labor Law, gitawag na nato ug CONSTRUCTIVE DISMISSAL—nga illegal gihapon.
+
+Ug ang pinaka-angkla ani tanan naa sa ubos: MORAL ASCENDANCY.
+Ubos sa Section 3 sa RA 7877, kung ang tawo naay authority, influence, o moral ascendancy—
+parehas sa teacher, boss, o supervisor—DILI PWEDE Gamiton nga defense ang 'mutual consent.'
+Kay ngano man? Unsaon man nimo pag-ingon nga voluntary ang consent kung ang kapalit 
+sa pagbalibad kay ang pagkawala sa imong grado o sa imong panginabuhian?"
+
+
+--------------------------------------------------------------------------------
+PART 4: SLIDE 08 — REPORTING OBSTACLES & TRAUMA (pp. 111–112)
+Slide Title: The Anatomy of Institutional Silence
+Target Time: ~1 minute 15 seconds
+--------------------------------------------------------------------------------
+
+[ACTION: Advance to Slide 8. Point to the large '1 in 5' statistic.]
+
+"Karon, ania ta sa Slide 8: The Anatomy of Institutional Silence.
+
+Tan-awa palihug kining dakong numero sa left side: 1 IN 5.
+Sumala sa Philippine Statistics Authority ug Philippine Commission on Women, 
+1 in 5 (o 20%) sa mga kababayen-an sa Pilipinas ang nakasinati na ug sexual harassment 
+sa ilang kinabuhi. 
+
+Pero kung tan-awon ninyo ang HR logbook sa mga kompanya o blotter sa pulis, 
+halos WALAY formal complaint—LESS THAN 5% lang ang naga-report!
+Ngano man? Nganong magpakahilom man ang mga biktima? 
+Dili tungod kay ganahan sila, kundi tungod kay naay tulo ka dakong babag:
+
+1. VICTIM-BLAMING (Moral Inversion):
+   Mao ni ang gitawag sa psychology nga 'Just-World Fallacy.' Imbes nga ang perpetrator 
+   ang imbestigahon, ang biktima na hinuon ang gisahon! 
+   Pangutan-on dayon: 'Nganong nag-short man gud ka? Nganong nakig-inom man ka? 
+   Nganong friendly ra kaayo ka sa iyaha?' 
+   Ang biktima na hinuon ang pakaulawan.
+
+2. SUPERVISORY RETALIATION (Career Blacklisting):
+   Mao ni ang pinakadakong rason. Kahibalo ang biktima nga 'pag mo-report siya batok sa 
+   iyang boss, siya ang tangtangan ug projects, tagaan ug ubos nga evaluation, 
+   ug i-blacklist sa industriya. Rational fear ni sa professional suicide.
+
+3. CLINICAL TRAUMA:
+   Ang biktima dili lang emosyonal nga nasakitan; nag-antos sila ug acute PTSD, 
+   severe anxiety, insomnia, depression, ug usahay suicidal thoughts.
+
+Apan taliwala ani nga kahilom, diha nisulod ang GRASSROOTS COUNTER-POWER. 
+Sama sa global movement nga #MeToo ug ang atong lokal nga kalihukan diri sa Pilipinas 
+nga GABRIELA—ilang gipakita nga kung magkahiusa ang mga biktima, mabuak ang silence, 
+mabasura ang mga secret NDAs, ug mapugos ang mga kompanya nga manubag.
+
+Apan kini nga harassment dili nag-inusara sa hangin; konektado kaayo kini sa ekonomikanhong 
+kahimtang sa mga kababayen-an sa atong labor market. 
+
+Aron ipasabot ang kabahin sa workplace discrimination ug ang 18.4% Gender Pay Gap, 
+itugyan nako ang entablado ngadto kang MARSHBURN. 
+Marshburn, palihug kuhaa ang floor."
+
+[ACTION: Turn smoothly to Marshburn. Smile, nod, and take your seat.]
+
+
+================================================================================
+PART 5: RECITATION & PANEL DEFENSE CHEAT SHEET (TAGBISENG READY)
+================================================================================
+
+QUESTION 1: 
+"Kung ang empleyado nisugot man diay makig-date o midawat ug regalo sa iyang boss sauna, 
+makasampa pa ba gihapon siya ug sexual harassment ubos sa RA 7877?"
+
+YOUR ANSWER (TAGBISENG):
+"Yes, Ma'am/Sir, pwede kaayo. Under Section 3 sa RA 7877, ang test sa balaod dili kung 
+midawat ba siya ug regalo sauna, kundi kung UNWELCOME ba ang sexual advances nga nahitabo. 
+Labaw sa tanan, tungod kay naay MORAL ASCENDANCY ang boss, ang pag-uyon sa empleyado tungod 
+kay nahadlok siyang mawad-an ug trabaho is not true legal consent—coercion na siya. 
+Ug ang consent, pwede na ma-revoke bisan unsang orasa."
+
+--------------------------------------------------------------------------------
+
+QUESTION 2: 
+"Ngano man nga dili na lang diay pwede husayon sa internal HR o CODI ang kaso kung 
+ang nahitabo sexual assault man diay sulod sa kompanya?"
+
+YOUR ANSWER (TAGBISENG):
+"Dili pwede, Ma'am/Sir, kay magkalahi ang ilang jurisdiction. Ang CODI is purely an 
+ADMINISTRATIVE body—kutob ra sila sa pagsuspenso o pagtangtang sa empleyado. 
+Pero ang Sexual Assault o Rape is a STATUTORY CRIMINAL FELONY ubos sa Revised Penal Code 
+ug RA 8353. Korte lang (Regional Trial Court) ang naay gahum nga mopriso sa suspetsado 
+hangtod Reclusion Perpetua. Kung itago ra na sa HR sa sulod, mahulog na nga institutional 
+betrayal ug obstruction of justice."
+
+--------------------------------------------------------------------------------
+
+QUESTION 3: 
+"Unsa may exact legal difference sa ordinaryong 'flirting' o pagpa-cute sa opisina, 
+ug sa legally actionable nga 'Hostile Work Environment'?"
+
+YOUR ANSWER (TAGBISENG):
+"Ang legal threshold ana, Ma'am/Sir, is SEVERITY and PERVASIVENESS, base sa objective standard 
+sa usa ka 'reasonable person.' Ang simpleng pag-express ug admiration nga respectful ug 
+nahunong dihang giingnan nga 'dili ko interesado,' dili na harassment. 
+Apan kung kini UNWELCOME, balik-balik, bastos, ug nakaguba na sa psychological safety sa 
+empleyado nga dili na siya makatrabaho ug tarong o napugos siya ug resign, kana qualified 
+na gyud legally as Hostile Work Environment."
+
+================================================================================
+END OF SCRIPT — GOOD LUCK, KAYA KAAYO NI NIMO!
+================================================================================
